@@ -1,0 +1,15 @@
+C:\Users\TRBA8\Desktop\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\TRBA8\Desktop\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\TRBA8\Desktop\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\TRBA8\Desktop\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojResolveAssemblyReference.cache
+C:\Users\TRBA8\Desktop\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\TRBA8\Desktop\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.exe
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csprojResolveAssemblyReference.cache
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.exe
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\ConsoleTables.dll
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\TRBA8\OneDrive\Documents\Faks\Programiranje\domaci\ConsoleApp18\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
